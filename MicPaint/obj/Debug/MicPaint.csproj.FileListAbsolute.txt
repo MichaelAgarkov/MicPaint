@@ -1,0 +1,14 @@
+C:\Users\micha\source\repos\MicPaint\MicPaint\bin\Debug\MicPaint.exe.config
+C:\Users\micha\source\repos\MicPaint\MicPaint\bin\Debug\MicPaint.exe.manifest
+C:\Users\micha\source\repos\MicPaint\MicPaint\bin\Debug\MicPaint.application
+C:\Users\micha\source\repos\MicPaint\MicPaint\bin\Debug\MicPaint.exe
+C:\Users\micha\source\repos\MicPaint\MicPaint\bin\Debug\MicPaint.pdb
+C:\Users\micha\source\repos\MicPaint\MicPaint\obj\Debug\MicPaint.About.resources
+C:\Users\micha\source\repos\MicPaint\MicPaint\obj\Debug\MicPaint.Form1.resources
+C:\Users\micha\source\repos\MicPaint\MicPaint\obj\Debug\MicPaint.Properties.Resources.resources
+C:\Users\micha\source\repos\MicPaint\MicPaint\obj\Debug\MicPaint.csproj.GenerateResource.cache
+C:\Users\micha\source\repos\MicPaint\MicPaint\obj\Debug\MicPaint.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\MicPaint\MicPaint\obj\Debug\MicPaint.exe.manifest
+C:\Users\micha\source\repos\MicPaint\MicPaint\obj\Debug\MicPaint.application
+C:\Users\micha\source\repos\MicPaint\MicPaint\obj\Debug\MicPaint.exe
+C:\Users\micha\source\repos\MicPaint\MicPaint\obj\Debug\MicPaint.pdb
